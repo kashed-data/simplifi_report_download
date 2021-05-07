@@ -1,4 +1,4 @@
-#This function downloads the most recent report from a scheduled Simpli.fi template. Some changes have been made since it was last tested, so it may need some tweaks if in use.
+#This function downloads the most recent report from a scheduled Simpli.fi template. Some changes have been made since it was last tested, so it may initially run with errors and need some revision.
 
 def simplifi_get_report(organization_id, template_id, schedule_id, save_directory, save_filename_prefix, api_app_key, api_user_key):
 
