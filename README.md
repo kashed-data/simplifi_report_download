@@ -1,1 +1,1 @@
-Hello! This is the first file I put on GitHub. It's a python script to retrieve the latest report in Simpl.fi DSP for a schedule report template. I made some changes to the code since it was last verified as working, so it may need some tweaking to work if you stumble open this and use it.
+Hello! This is the first file I put on GitHub. It's a python script to retrieve the latest report in Simpl.fi DSP for a schedule report template. I made some changes to the code since it was last verified as working, so it may need some tweaking to work if you stumble upon this and use it.
